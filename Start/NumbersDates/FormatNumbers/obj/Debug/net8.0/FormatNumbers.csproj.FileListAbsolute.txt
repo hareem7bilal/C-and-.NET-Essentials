@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\bin\Debug\net8.0\FormatNumbers.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\bin\Debug\net8.0\FormatNumbers.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\bin\Debug\net8.0\FormatNumbers.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\bin\Debug\net8.0\FormatNumbers.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\bin\Debug\net8.0\FormatNumbers.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\refint\FormatNumbers.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\FormatNumbers.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatNumbers\obj\Debug\net8.0\ref\FormatNumbers.dll

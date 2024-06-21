@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\bin\Debug\net8.0\Replacing.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\bin\Debug\net8.0\Replacing.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\bin\Debug\net8.0\Replacing.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\bin\Debug\net8.0\Replacing.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\bin\Debug\net8.0\Replacing.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\refint\Replacing.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\Replacing.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Replacing\obj\Debug\net8.0\ref\Replacing.dll

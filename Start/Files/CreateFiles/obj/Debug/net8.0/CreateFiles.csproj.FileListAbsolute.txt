@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\bin\Debug\net8.0\CreateFiles.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\bin\Debug\net8.0\CreateFiles.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\bin\Debug\net8.0\CreateFiles.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\bin\Debug\net8.0\CreateFiles.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\bin\Debug\net8.0\CreateFiles.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\refint\CreateFiles.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\CreateFiles.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\CreateFiles\obj\Debug\net8.0\ref\CreateFiles.dll

@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\bin\Debug\net8.0\FormatDates.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\bin\Debug\net8.0\FormatDates.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\bin\Debug\net8.0\FormatDates.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\bin\Debug\net8.0\FormatDates.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\bin\Debug\net8.0\FormatDates.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\refint\FormatDates.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\FormatDates.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\FormatDates\obj\Debug\net8.0\ref\FormatDates.dll

@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\bin\Debug\net8.0\Directories.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\bin\Debug\net8.0\Directories.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\bin\Debug\net8.0\Directories.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\bin\Debug\net8.0\Directories.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\bin\Debug\net8.0\Directories.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\refint\Directories.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\Directories.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\Directories\obj\Debug\net8.0\ref\Directories.dll

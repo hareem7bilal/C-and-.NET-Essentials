@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\bin\Debug\net8.0\DateTimeClass.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\bin\Debug\net8.0\DateTimeClass.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\bin\Debug\net8.0\DateTimeClass.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\bin\Debug\net8.0\DateTimeClass.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\bin\Debug\net8.0\DateTimeClass.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\refint\DateTimeClass.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\NumbersDates\DateTimeClass\obj\Debug\net8.0\ref\DateTimeClass.dll

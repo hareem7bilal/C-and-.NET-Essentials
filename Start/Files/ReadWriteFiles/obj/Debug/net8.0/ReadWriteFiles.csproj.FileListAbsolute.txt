@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\bin\Debug\net8.0\ReadWriteFiles.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\bin\Debug\net8.0\ReadWriteFiles.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\bin\Debug\net8.0\ReadWriteFiles.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\bin\Debug\net8.0\ReadWriteFiles.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\bin\Debug\net8.0\ReadWriteFiles.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\refint\ReadWriteFiles.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ReadWriteFiles.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Files\ReadWriteFiles\obj\Debug\net8.0\ref\ReadWriteFiles.dll

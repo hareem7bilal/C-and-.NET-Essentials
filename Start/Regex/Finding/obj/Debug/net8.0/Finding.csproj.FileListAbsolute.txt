@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\bin\Debug\net8.0\Finding.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\bin\Debug\net8.0\Finding.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\bin\Debug\net8.0\Finding.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\bin\Debug\net8.0\Finding.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\bin\Debug\net8.0\Finding.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\refint\Finding.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\Finding.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Regex\Finding\obj\Debug\net8.0\ref\Finding.dll

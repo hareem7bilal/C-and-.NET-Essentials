@@ -1,0 +1,14 @@
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\bin\Debug\net8.0\GarbageCollect.exe
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\bin\Debug\net8.0\GarbageCollect.deps.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\bin\Debug\net8.0\GarbageCollect.runtimeconfig.json
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\bin\Debug\net8.0\GarbageCollect.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\bin\Debug\net8.0\GarbageCollect.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.AssemblyInfoInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.AssemblyInfo.cs
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.csproj.CoreCompileInputs.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\refint\GarbageCollect.dll
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.pdb
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\GarbageCollect.genruntimeconfig.cache
+C:\Users\Hareem Bilal\Desktop\dotnet\Start\Overview\GarbageCollect\obj\Debug\net8.0\ref\GarbageCollect.dll
